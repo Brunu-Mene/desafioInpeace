@@ -5,4 +5,4 @@ execuções básicas de script em linha de comando, e utilização da ferramenta
 
 
 Objetivos: Transcrever conteudo de um arquivo xml para outro, alterando uma tag a desejar:
-Exemplo de execução: python desafioInpeace "a.xml" "b.xml" colorPrimary A2A2A2
+Exemplo de execução: python3 desafioInpeace.py "a.xml" "b.xml" colorPrimary A2A2A2
